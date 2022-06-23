@@ -7,7 +7,5 @@ Shield by shield
 
 some contetn
 another content
+
 hello World
-
-
-some text
