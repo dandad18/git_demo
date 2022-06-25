@@ -4,13 +4,3 @@ standing strong
 on this their chosen battle field
 Form the lines
 Shield by shield
-
-some contetn
-another content
-
-hello World
-
-this line was added by new branch 'feature'
-omg, it is very cool
-
-another text by new branch
