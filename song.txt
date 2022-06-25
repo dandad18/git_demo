@@ -9,3 +9,6 @@ some contetn
 another content
 
 hello World
+
+this line was added by new branch 'feature'
+omg, it is very cool
