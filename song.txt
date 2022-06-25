@@ -12,3 +12,5 @@ hello World
 
 this line was added by new branch 'feature'
 omg, it is very cool
+
+another text by new branch
